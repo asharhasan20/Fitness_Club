@@ -1,0 +1,17 @@
+.left{
+  display: inline-block;
+  /* border: 2px solid black; */
+  position: absolute;
+  left: 30px;
+  top: 10px;
+}
+.left img{
+  width: 57px;
+
+}
+.left div{
+  line-height: 20px;
+  font-size: 10px;
+  text-align: center;
+  color: white;
+}
